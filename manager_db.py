@@ -559,3 +559,13 @@ if __name__ == '__main__':
     # c.backup()
     # c.importar_dados()
     c.fechar_conexao()
+
+    # p = PessoasDb()
+    # p.criar_schema()
+    # p.inserir_de_csv()
+    # p.gen_cidade()
+    # p.inserir_randomico(50)
+    # p.imprimir_todas_pessoas()
+    # p.meu_select()
+    # p.table_list()
+    # p.fechar_conexao()
