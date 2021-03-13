@@ -41,6 +41,13 @@ if __name__ == '__main__':
     cliente = ClientesDb()
     cliente.close_connection()
 
+# from connect_db import Connect
+# dir(Connect)
+# db = Connect('clientes.db')
+# dir(db)
+# db.close_db()
+# exit()
+
 # db = Connect('clientes.db')
 # db.close_db()
 # dir(Connect)
