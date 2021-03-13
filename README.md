@@ -37,7 +37,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
    * [Conectando e desconectando do banco](https://github.com/devscie/PythonConnectSQLite/blob/master/connect_db.py)
    * [Criando um banco de dados](https://github.com/devscie/PythonConnectSQLite/blob/master/manager_db.py)
    * [Inserindo valores randômicos](https://github.com/devscie/PythonConnectSQLite/blob/master/gen_random_values.py)
-   * [gerar dados randômicos para novos clientes](https://github.com/devscie/PythonConnectSQLite/blob/master/gen_csv.py)
+   * [Gerar dados randômicos para novos clientes](https://github.com/devscie/PythonConnectSQLite/blob/master/gen_csv.py)
    * [Comandos]
       * [Create - Inserindo 1 registro com comando SQL]
       * [Create - Inserindo N registros com uma tupla de dados]
@@ -161,7 +161,7 @@ $ c.backup('sql/clientes_backup.sql')
 c.ler_arquivo('sql/clientes_maior18.sql')
 
 # Chamando no modo interativo
-
+$ python3
 >>> from manager_db import *
 >>> p = PessoasDb()
 >>> p.criar_schema()
