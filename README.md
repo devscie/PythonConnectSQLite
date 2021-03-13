@@ -53,7 +53,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
       * [Lendo as informações do banco de dados]
       * [Fazendo backup do banco de dados (exportando dados)]
       * [Recuperando backup do banco de dados (importando dados)]
-   * [License](https://github.com/devscie/PythonConnectDb/blob/master/LICENSE)
+   * [License](https://github.com/devscie/PythonConnectSQLite/blob/master/LICENSE)
 <!--te-->
 
 ### Features
