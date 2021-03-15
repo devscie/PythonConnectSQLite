@@ -11,7 +11,7 @@ Utilizar um único arquivo, usando classes e métodos para realizar o CRUD num b
 Tabela clientes
 ___
 
-Campo     | Tipo       | Tipo
+Campo     | Tipo       | Requerido
 --------- | ---------- | ----------
 id        | inteiro    | sim
 nome      | texto      | sim
